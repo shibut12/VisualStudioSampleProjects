@@ -1,0 +1,8 @@
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\bin\Debug\CodeFirstApp01.exe.config
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\obj\Debug\CodeFirstApp01.csprojResolveAssemblyReference.cache
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\bin\Debug\CodeFirstApp01.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\bin\Debug\CodeFirstApp01.pdb
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\bin\Debug\EntityFramework.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\bin\Debug\EntityFramework.xml
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\obj\Debug\CodeFirstApp01.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirstApp01\CodeFirstApp01\obj\Debug\CodeFirstApp01.pdb

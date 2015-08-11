@@ -1,0 +1,10 @@
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\CodeFirst001.exe.config
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\CodeFirst001.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\CodeFirst001.pdb
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\EntityFramework.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\EntityFramework.xml
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\obj\Debug\CodeFirst001.csprojResolveAssemblyReference.cache
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\obj\Debug\CodeFirst001.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\CodeFirst001\CodeFirst001\obj\Debug\CodeFirst001.pdb

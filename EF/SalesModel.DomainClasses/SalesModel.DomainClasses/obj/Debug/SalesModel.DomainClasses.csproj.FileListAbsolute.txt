@@ -1,0 +1,5 @@
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\SalesModel.DomainClasses\SalesModel.DomainClasses\bin\Debug\SalesModel.DomainClasses.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\SalesModel.DomainClasses\SalesModel.DomainClasses\bin\Debug\SalesModel.DomainClasses.pdb
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\SalesModel.DomainClasses\SalesModel.DomainClasses\obj\Debug\SalesModel.DomainClasses.csprojResolveAssemblyReference.cache
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\SalesModel.DomainClasses\SalesModel.DomainClasses\obj\Debug\SalesModel.DomainClasses.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\EF\SalesModel.DomainClasses\SalesModel.DomainClasses\obj\Debug\SalesModel.DomainClasses.pdb

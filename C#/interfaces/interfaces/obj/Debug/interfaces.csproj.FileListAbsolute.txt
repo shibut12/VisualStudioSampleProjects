@@ -1,0 +1,6 @@
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\bin\Debug\interfaces.exe.config
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\bin\Debug\interfaces.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\bin\Debug\interfaces.pdb
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\obj\Debug\interfaces.csprojResolveAssemblyReference.cache
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\obj\Debug\interfaces.exe
+c:\users\shibu\documents\visual studio 2015\Projects\learning\C#\interfaces\interfaces\obj\Debug\interfaces.pdb

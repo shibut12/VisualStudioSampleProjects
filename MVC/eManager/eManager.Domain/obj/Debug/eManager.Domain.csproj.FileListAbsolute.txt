@@ -1,0 +1,5 @@
+c:\users\shibu\documents\visual studio 2015\Projects\learning\MVC\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\MVC\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+c:\users\shibu\documents\visual studio 2015\Projects\learning\MVC\eManager\eManager.Domain\obj\Debug\eManager.Domain.csprojResolveAssemblyReference.cache
+c:\users\shibu\documents\visual studio 2015\Projects\learning\MVC\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+c:\users\shibu\documents\visual studio 2015\Projects\learning\MVC\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
