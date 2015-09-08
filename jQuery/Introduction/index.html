@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <input type="button" id="button1" value="Click me" />
+    <table id="table1" border="1">
+        <tr>
+            <td>C#</td>
+            <td>ASP.NET</td>
+            <td>SQL server</td>
+        </tr>
+        <tr>
+            <td>ADO.NET</td>
+            <td>jQuery</td>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td>Botstrap</td>
+            <td>Angular</td>
+            <td>Node.JS</td>
+        </tr>
+        <tr>
+            <td>XML</td>
+            <td>SOA</td>
+            <td>DB2</td>
+        </tr>
+    </table>
+    <br /><br />
+    <table id="table2" border="2">
+        <tr>
+            <td>Mike</td>
+            <td>Mary</td>
+            <td>Mathew</td>
+        </tr>
+        <tr>
+            <td>Johny</td>
+            <td>John</td>
+            <td>Jenny</td>
+        </tr>
+        <tr>
+            <td>Thomas</td>
+            <td>Tom</td>
+            <td>Tommy</td>
+        </tr>
+        <tr>
+            <td>Vitaliy</td>
+            <td>Vitaliyzd</td>
+            <td>Valeri</td>
+        </tr>
+        <tr>
+            <td>Kate</td>
+            <td>Mara</td>
+            <td>Greg</td>
+        </tr>
+    </table>
+
+    <!-- Javascript goes beyond this line-->
+    <script src="Scripts/jquery-2.1.4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $('#button1').click(function () {
+                if ($('#button2').length > 0) {
+                    alert('Element found');
+                } else {
+                    alert('Element not found');
+                }
+            });
+
+            //$('td').css('background-color', 'red');
+            //$('table tr').each(function() {
+            //    alert($(this).html());
+            //});
+            $('#table1 tr:even').css('background-color', 'skyblue');
+            $('#table1 tr:odd').css('background-color', 'yellowgreen');
+        });
+    </script>
+</body>
+</html>

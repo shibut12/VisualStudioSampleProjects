@@ -1,0 +1,24 @@
+﻿@model SportsStore.Domain.Entities.Product
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <div class="panel-title">
+            <h3>@Model.Name</h3>
+        </div>
+    </div>
+    <div class="panel-body">
+        @Model.Description
+    </div>
+    <div class="panel-footer">
+        <p>@Model.Price.ToString("c")</p>
+
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            @Html.HiddenFor(x=>x.ProductID)
+            @Html.Hidden("returnUrl",Request.Url.PathAndQuery)
+
+            <button type="submit" class="btn btn-success">
+                Add to cart <span class="glyphicon glyphicon-shopping-cart"></span>
+            </button>
+        }
+    </div>
+</div>

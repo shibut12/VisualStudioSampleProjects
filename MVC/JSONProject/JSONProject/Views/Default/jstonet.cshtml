@@ -1,0 +1,36 @@
+﻿@using JSONProject.Models
+
+@{
+    ViewBag.Title = "jstonet";
+}
+
+<h2>MVC Example to parse JSON message into .Net object</h2>
+
+    @foreach (Employee emp in ViewBag.employees)
+    {
+        <table class="table table-bordered table-hover table-striped col-lg-6">
+            <tr>
+                <th>Value Type</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td>First Name</td>
+                <td>@emp.firstName</td>
+            </tr>
+            <tr>
+                <td>Last Name</td>
+                <td>@emp.lastName</td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>@emp.gender</td>
+            </tr>
+            <tr>
+                <td>Salary</td>
+                <td>@emp.salary</td>
+            </tr>
+        </table>
+    }
+        
+
+

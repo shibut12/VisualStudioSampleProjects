@@ -1,0 +1,28 @@
+﻿@model HelloWorld.Models.GuestResponse
+
+@{
+    ViewBag.Title = "Thanks";
+}
+
+<h2>Thanks</h2>
+
+<div>
+    <h4>Thank you, @Model.Name</h4>
+    <hr />
+    @if (@Model.WillAttend == true)
+    {
+        <div class="alert alert-success">
+            It's great that you are coming, drink are already in the fridge!
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            Sorry to hear that you can't make it, but thanks for letting us know.
+        </div>
+    }
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
